@@ -1,0 +1,27 @@
+.navigationWrapper {
+    width:100%;
+    text-align: center;
+    font-size: medium;
+}
+
+.listingWrapper {
+    display: flex;
+    padding:2px;
+    justify-content: space-between;
+}
+
+.listingWrapper li {
+    list-style-type: none;
+    padding:10px;
+}
+.para{
+    text-align: center;
+}
+
+.foot{
+    
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+    
+}
